@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Django
+*.sqlite3
+.env
+
+# Node (frontend)
+movie-frontend/node_modules/
+movie-frontend/build/
+
+# OS
+.DS_Store
+Thumbs.db

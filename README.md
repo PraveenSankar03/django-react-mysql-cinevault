@@ -24,19 +24,18 @@ A full-stack movie collection app with complete CRUD functionality — built wit
 ## Setup
 
 ### Backend
-\`\`\`bash
+```
 cd my_movies
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
-\`\`\`
+```
 
 ### Frontend
-\`\`\`bash
+```
 cd movie-frontend
 npm install
 npm start
-\`\`\`
-
+```
 ## Author
-Built by Praveen — [Portfolio](https://portfolio-praveen03.vercel.app) · [GitHub](https://github.com/PraveenSankar03)
+Built by Praveen - [Portfolio](https://portfolio-praveen03.vercel.app) · [GitHub](https://github.com/PraveenSankar03)
